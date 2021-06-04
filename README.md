@@ -7,7 +7,7 @@
 
 ## How to start?
 
-Each problem has a test.js file for testing. You have to install jest.js to test the answers
+Each problem has a test.js file for testing. You have to install test.js to test the answers
 
 
 ## Happy hacking!
